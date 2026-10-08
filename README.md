@@ -1,13 +1,13 @@
-# IPL Data Cleaning and Analysis using Python
+ IPL Data Cleaning and Analysis using Python
 
-## Team Members
+ Team Members
 
 -   IU2441230636 -- Mehta Jainam Dilipbhai
--   IU2441230607 -- \[Teammate Name\]
+-   IU2441230607 -- PATEL MEET HARSHADKUMAR
 
 ------------------------------------------------------------------------
 
-## Project Definition
+ Project Definition
 
 This project focuses on analyzing IPL cricket data from 2008 onwards
 using Python.
@@ -22,7 +22,7 @@ match trends.
 
 ------------------------------------------------------------------------
 
-## Dataset
+ Dataset
 
 The project uses the IPL Complete Dataset (2008--2020) obtained from
 Kaggle.
@@ -38,7 +38,7 @@ The dataset contains match-level and ball-by-ball information such as:
 -   Wickets
 -   Player performance
 
-### Dataset Source
+ Dataset Source
 
 Kaggle: IPL Complete Dataset 2008--2020
 
@@ -46,7 +46,7 @@ https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020
 
 ------------------------------------------------------------------------
 
-## Dataset Use Case
+ Dataset Use Case
 
 The dataset will be used to:
 
@@ -60,7 +60,7 @@ The dataset will be used to:
 
 ------------------------------------------------------------------------
 
-## Data Cleaning
+Data Cleaning
 
 The following data-cleaning techniques will be applied:
 
@@ -73,7 +73,7 @@ The following data-cleaning techniques will be applied:
 
 ------------------------------------------------------------------------
 
-## Proposed Visualizations
+ Proposed Visualizations
 
 The project will include the following visualizations:
 
@@ -115,14 +115,13 @@ The following Python libraries will be used:
 -   **Matplotlib** -- Data visualization
 -   **Seaborn** -- Statistical visualization
 
-### Development Environment
+Development Environment
 
 -   Python
 -   Visual Studio Code
 
-------------------------------------------------------------------------
 
-## Expected Outcomes
+ Expected Outcomes
 
 The project is expected to provide insights into:
 
@@ -160,13 +159,8 @@ Exploratory Data Analysis
 Data Visualization
      ↓
 Insights and Conclusion
-```
 
-------------------------------------------------------------------------
+:::: Project Status
 
-## Project Status
+**Project in development**
 
-🚧 **Project in development**
-
-The data cleaning, analysis and visualizations will be implemented using
-Python.
